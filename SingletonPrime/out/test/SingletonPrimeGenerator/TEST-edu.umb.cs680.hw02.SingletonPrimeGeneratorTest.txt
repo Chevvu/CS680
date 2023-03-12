@@ -1,7 +1,0 @@
-Testcase: edu.umb.cs680.hw02.SingletonPrimeGeneratorTest
-Test: getPrimesTest() took 79 milli sec(s)
-Test: equal() took 0 milli sec(s)
-Test: getPrimess() took 0 milli sec(s)
-Test: getPrimenumber() took 0 milli sec(s)
-Test: notnull() took 15 milli sec(s)
-Tests run: 5, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 141 milli sec(s)
